@@ -134,7 +134,7 @@ __pypackages__/
 # Celery stuff
 celerybeat.pid
 
-# USERGE-X
+# heroku
 .apt/
 .heroku/
 .profile.d/
@@ -143,13 +143,3 @@ config.env
 .vscode/
 .idea/
 *.session
-unknown_errors.txt
-logs/
-userge/plugins/dev/
-resources/base_profile_pic.jpg
-resources/mdfy_profile_pic.jpg
-resources/ProductSans-BoldItalic.ttf
-resources/ProductSans-Light.ttf
-resources/Roboto-Regular.ttf
-resources/font.ttf
-resources/Roboto-Medium.tff
