@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: alpha
+    upstream: reza395:alpha
+    mergeMethod: rebase
+    mergeUnstable: false
